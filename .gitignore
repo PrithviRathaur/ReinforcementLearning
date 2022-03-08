@@ -1,2 +1,5 @@
 # Mac files
 *.DS_Store
+
+# Pycache files
+__pycache__/
